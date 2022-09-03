@@ -39,3 +39,11 @@
 .buttonHeader:hover {
     border-color: #ff0044;
 }
+
+.footer {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 25px;
+}
