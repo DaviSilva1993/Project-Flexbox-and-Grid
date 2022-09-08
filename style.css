@@ -181,4 +181,7 @@
     .footer {
         justify-content: center;
     }
+    .mainCategoryCardDescription {
+        font-size: 17px;
+    }
 }
